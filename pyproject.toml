@@ -6,7 +6,12 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.14.2",
+    "docling>=2.61.2",
+    "paddleocr>=3.3.2",
+    "paddlepaddle>=3.2.1",
     "pandas>=2.3.3",
+    "pillow>=11.3.0",
+    "pymupdf>=1.26.6",
     "requests>=2.32.5",
     "tqdm>=4.67.1",
 ]
